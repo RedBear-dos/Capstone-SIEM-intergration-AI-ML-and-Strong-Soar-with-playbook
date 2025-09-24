@@ -49,7 +49,6 @@ Xây dựng **mô hình mini-SOC cho SMEs** dựa trên **Wazuh (SIEM OSS)**, k�
    - Phân tích & cảnh báo bảo mật.
    - Sơ đồ cấu trúc về SIEM và phân bổ Agent.
 
-https://github.com/RedBear-dos/Capstone-SIEM-intergration-AI-ML-and-Strong-Soar-with-playbook/blob/main/SIEM%20Diagram-Trang-1.drawio%20(3).png
 <img width="4105" height="2345" alt="SIEM Diagram-Trang-1 drawio (3)" src="https://github.com/user-attachments/assets/b81e6ec8-6d67-456e-a561-5d64a28043af" />
 
 
