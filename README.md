@@ -50,14 +50,21 @@ Xây dựng **mô hình mini-SOC cho SMEs** dựa trên **Wazuh (SIEM OSS)**, k�
    - Sơ đồ cấu trúc về SIEM và phân bổ Agent.
 
 https://github.com/RedBear-dos/Capstone-SIEM-intergration-AI-ML-and-Strong-Soar-with-playbook/blob/main/SIEM%20Diagram-Trang-1.drawio%20(3).png
+<img width="4105" height="2345" alt="SIEM Diagram-Trang-1 drawio (3)" src="https://github.com/user-attachments/assets/b81e6ec8-6d67-456e-a561-5d64a28043af" />
 
 
 2. **Tích hợp AI (Random Forest):**  
    - Phân loại log & cảnh báo.  
-   - Giảm cảnh báo giả (false positives).  
+   - Giảm cảnh báo giả (false positives).
+   - Sẽ cập nhật trong tháng 10/2025
 
 3. **Tích hợp SOAR (Shuffle):**  
    - Xây dựng playbook tự động hóa phản ứng: chặn IP, gửi cảnh báo, xử lý sự cố.  
+   - Sẽ cập nhật trong tháng 10/2025
 
 4. **Đảm bảo tính phù hợp SMEs:**  
    - Chi phí thấp, dễ triển khai, yêu cầu ít nhân lực.  
+
+----------------------------------------------------------------------------
+   - Tất cả sẽ cập nhật trong tháng 10/2025
+
