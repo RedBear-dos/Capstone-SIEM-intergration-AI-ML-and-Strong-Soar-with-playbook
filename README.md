@@ -48,6 +48,8 @@ Xây dựng **mô hình mini-SOC cho SMEs** dựa trên **Wazuh (SIEM OSS)**, k�
    - Thu thập log đa nguồn: Linux, Windows, Web Server, Database, Mail Server, Firewall.  
    - Phân tích & cảnh báo bảo mật.
    - Sơ đồ cấu trúc về SIEM và phân bổ Agent.
+
+![Uploading SIEM Diagram-Trang-1.drawio (3).png…]()
 ![Uploading SIEM Diagram-Trang-1.drawio (3).png…]()
 
 
