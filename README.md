@@ -46,7 +46,10 @@ Xây dựng **mô hình mini-SOC cho SMEs** dựa trên **Wazuh (SIEM OSS)**, k�
 ### Mục tiêu cụ thể  
 1. **Triển khai hệ thống SIEM (Wazuh):**  
    - Thu thập log đa nguồn: Linux, Windows, Web Server, Database, Mail Server, Firewall.  
-   - Phân tích & cảnh báo bảo mật.  
+   - Phân tích & cảnh báo bảo mật.
+   - Sơ đồ cấu trúc về SIEM và phân bổ Agent.
+![Uploading SIEM Diagram-Trang-1.drawio (3).png…]()
+
 
 2. **Tích hợp AI (Random Forest):**  
    - Phân loại log & cảnh báo.  
